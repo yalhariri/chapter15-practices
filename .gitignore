@@ -1,0 +1,48 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# ─── What the end-to-end notebook writes while it runs ────────────────────────
+# az_cache holds multi-gigabyte intermediates; az_output holds results the
+# reader regenerates. The published figures and CSVs are versioned separately.
+az_cache/
+az_output/
+pipeline_cache/
+pipeline_output/
+
+# ─── Models, corpora and other large binaries ─────────────────────────────────
+# None of these belong in a git repository. The corpus is 1.4 GB, the language
+# model 131 MB, the trained topic model and the dictionary tens of megabytes.
+# GitHub refuses a single file over 100 MB, and a large file committed once
+# stays in the history even after it is deleted.
+*.bin
+*.jar
+*.obj
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.h5
+*.zip
+*.gz
+*.model
+dictionary_object
+
+# ─── Large text intermediates from the preprocessing chain ────────────────────
+farasa_in.csv
+farasa_out.txt
+out_put*.csv
+output_processed*.txt
+temp_*.csv
+docword*.txt
+vocab.kos*.txt
+LDA_ArabicTweets*.txt
+
+# ─── Keep the published aggregates ────────────────────────────────────────────
+# These are small, and they are what the verification scripts read. Nothing
+# above should catch them, and this says so out loud.
+!data/*.csv

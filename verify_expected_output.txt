@@ -1,0 +1,74 @@
+
+==============================================================================
+1. RETENTION  (sum of the 42 monthly shares, per community)
+==============================================================================
+   A category is retained when this sum reaches 1.25 (a mean monthly share of about 3.0%).
+
+category                                              Athei   Theis   Ratio   Tanwe   passes in        plotted
+Arguing and Discussing Metaphysics                     1.05    1.42    1.20    1.06   1/4          no
+Attitudes                                              2.01    2.09    2.15    2.05   4/4          YES
+Football Clubs                                         0.54    1.37    2.95    0.79   2/4          YES
+Gov., Nation and Socio-Political in Middle East        4.31    4.10    4.94    6.07   4/4          YES
+Marriage and Women                                     1.75    1.07    1.14    1.07   1/4          no
+Political and Religious Confrontations and Violence    5.83    4.61    5.75    5.78   4/4          YES
+Relationship and Interactions                          4.36    3.23    3.88    3.04   4/4          YES
+Suffering                                              1.38    1.27    1.51    1.60   4/4          YES
+Theism, Belief and Disbelief                           3.76    7.45    3.79    4.31   4/4          YES
+Thoughts and Logic                                     6.61    5.32    4.85    7.18   4/4          YES
+Universe, Creator and Existence                        4.61    4.44    3.55    2.98   4/4          YES
+
+   retained in all four communities : 8
+      Attitudes
+      Gov., Nation and Socio-Political in Middle East
+      Political and Religious Confrontations and Violence
+      Relationship and Interactions
+      Suffering
+      Theism, Belief and Disbelief
+      Thoughts and Logic
+      Universe, Creator and Existence
+
+   plotted but NOT retained in all four : Football Clubs
+      reaches the threshold in: Theists, Rationalists
+      kept because the contrast between communities is itself a finding
+
+   categories plotted in Figures 15.3 and 15.4 : 9
+
+==============================================================================
+2. FIGURE 15.3  (mean monthly share, %)
+==============================================================================
+category                                                 Atheists       Theists  Rationalists     Tanweeris
+Thoughts and Logic                                         15.74%        12.67%        11.55%        17.08%
+Political and Religious Confrontations and Violence        13.87%        10.99%        13.68%        13.77%
+Gov., Nation and Socio-Political in Middle East            10.26%         9.77%        11.76%        14.46%
+Theism, Belief and Disbelief                                8.94%        17.75%         9.02%        10.27%
+Universe, Creator and Existence                            10.98%        10.57%         8.46%         7.10%
+Relationship and Interactions                              10.38%         7.70%         9.23%         7.24%
+Attitudes                                                   4.78%         4.98%         5.12%         4.88%
+Suffering                                                   3.29%         3.03%         3.59%         3.81%
+Football Clubs                                              1.28%         3.25%         7.03%         1.89%
+SUM OF THE NINE                                            79.53%        80.70%        79.43%        80.50%
+
+   the bars sum to 79-81%, not 100%:
+   the residual 'Others' category is outside the denominator and
+   9 of the 18 categories are not drawn.
+
+   widest spread between communities: Football Clubs, 7.03% (rationalists) vs 1.28% (atheists)
+
+==============================================================================
+3. SHARPEST TEMPORAL CHANGE  (Suffering)
+==============================================================================
+   mean across the four communities, over all 42 months: 3.43%
+
+month        Athei    Theis    Ratio    Tanwe     mean
+2020_3      11.00%   10.13%   15.87%   15.87%   13.22%
+2020_4       5.76%    5.37%    9.97%    8.49%    7.39%
+2020_5       3.53%    4.73%    5.53%    7.41%    5.30%
+
+   peak month: 2020_3, 3.9x the overall mean,
+   and every community rises in the same month.
+
+==============================================================================
+4. CORPUS SIZE
+==============================================================================
+   skipped. Re-run with --corpus .. to count the corpus.
+
